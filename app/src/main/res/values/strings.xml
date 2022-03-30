@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Currency converter</string>
+    <string name="flag_icon_description">Icon for the flag relating to the currency</string>
+</resources>
